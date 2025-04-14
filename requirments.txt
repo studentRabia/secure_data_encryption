@@ -1,3 +1,4 @@
-streamlit 
-hashlib
+streamlit
 cryptography
+pandas
+matplotlib
